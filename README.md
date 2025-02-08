@@ -41,6 +41,6 @@ This project include:
    	- Restricts outbound traffic based on application requirements
    
 
-15.	VPC Network Configuration
-   		- NAT Gateway: Configured for the private subnets to enable outbound internet access while maintaining security.
-   		- DNS Resolution: Enabled for VPC to allow easy resource discovery.
+15.	VPC Network Configuration :
+    - NAT Gateway: Configured for the private subnets to enable outbound internet access while maintaining security.
+    - DNS Resolution: Enabled for VPC to allow easy resource discovery.

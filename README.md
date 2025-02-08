@@ -26,8 +26,8 @@ This project include:
          - Successfully able to access private instances within the VPC from the bastion host using SSH commands.
 
 9.	Security Groups : Public Subnet Security Group:
-		- Allows inbound SSH (port 22) from a specified IP range to the bastion host.
-  	     	- Allows outbound traffic to any destination for internet access.
+   	- Allows inbound SSH (port 22) from a specified IP range to the bastion host.
+  	- Allows outbound traffic to any destination for internet access.
 
 10.	Private Subnet Security Group:
  		 - Allows inbound SSH from the bastion host's security group, enabling secure access from the bastion to private instances.  

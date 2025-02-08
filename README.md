@@ -3,10 +3,11 @@ This is my first AWS project that includes all my skills and knowledge about AWS
 
 This project include:
  
-1.	VPC Configuration :  VPC Creation: A dedicated VPC to host resources, ensuring network isolation.
+1.	VPC Configuration :
+    - VPC Creation: A dedicated VPC created to host resources, ensuring network isolation.
 
 
-2.	Subnets:
+3.	Subnets:
    	 - 2 Public Subnets: For resources that need direct access to the internet (Bastion Host).
    	 - Private Subnets: For resources that should not be directly accessible from the internet (application servers, databases).
        

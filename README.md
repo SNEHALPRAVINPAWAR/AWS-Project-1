@@ -5,9 +5,10 @@ This project include:
  
 1.	VPC Configuration :  VPC Creation: A dedicated VPC to host resources, ensuring network isolation.
 
+
 2.	Subnets:
-   	2.1) 2 Public Subnets: For resources that need direct access to the internet (Bastion Host).
-   	2.2) 2 Private Subnets: For resources that should not be directly accessible from the internet (application servers, databases).
+   	 - 2 Public Subnets: For resources that need direct access to the internet (Bastion Host).
+   	 - Private Subnets: For resources that should not be directly accessible from the internet (application servers, databases).
 
 4.	Route Tables:
    Configured route tables to ensure proper routing of traffic:

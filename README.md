@@ -21,13 +21,13 @@ This project include:
       
 
 8.	Bastion Host :
-   - Bastion Host Deployment: A public EC2 instance that acts as a secure entry point to access private instances in the VPC.
+    - Bastion Host Deployment: A public EC2 instance that acts as a secure entry point to access private instances in the VPC.
      
 
 10.	SSH Access:
-   - Transferred the .pem key file from the local machine to the bastion host via command line.
-   - Logged into the bastion host using its public IP.
-   - Successfully able to access private instances within the VPC from the bastion host using SSH commands.
+    - Transferred the .pem key file from the local machine to the bastion host via command line.
+    - Logged into the bastion host using its public IP.
+    - Successfully able to access private instances within the VPC from the bastion host using SSH commands.
      
 
 12.	Security Groups : Public Subnet Security Group:

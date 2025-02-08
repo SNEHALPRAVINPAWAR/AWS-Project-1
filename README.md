@@ -36,7 +36,7 @@ This project include:
       
 
 13.	Private Subnet Security Group:
- 		 - Allows inbound SSH from the bastion host's security group, enabling secure access from the bastion to private instances.
+    - Allows inbound SSH from the bastion host's security group, enabling secure access from the bastion to private instances.
    	- Restricts outbound traffic based on application requirements
    
 
